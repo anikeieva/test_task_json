@@ -5,10 +5,10 @@ to the HTML-table and live search by separate fields. Also there is
 counting total currency(fourth table's field).
 
 Project was created with the help of Vue.js, vue-cli. Also I worked with:
-Node.js, Webpack, Sass, ES6. 
+Node.js, Webpack, Sass, ES6.
 
 Follow the link to see a page of project (at GitHub Pages):
-https://anikeieva.github.io/test_task_json_vue/
+https://anikeieva.github.io/test_task_json/index.html
 
 ## Build Setup
 
